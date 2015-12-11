@@ -1,0 +1,26 @@
+Demo: In class August 5th. Final deliverable August 8th 11:59PM.
+
+Please make sure you have Venkat's approval on the project before you start 
+coding.
+
+
+
+Project Idea: Project Management System
+=======================================
+Project Management System is Role Based Authenticated web application which is used to organize and manage the IT project. This application supports multiple projects where each project can have any number of users.  Manager creates a project. The Member of the project can create issue \ bug and assign to other project members.  Email Notification will be send to the assignee.  Milestone\ Status \ Priority can be updated to track the update of the issue.
+ 
+Roles:  Admin, Manager, Member
+
+Controllers:   Account (Register and Sign In)
+  	       User (User Information)
+  	       Profile (Profile Information)
+               Project (Project details)
+               Issues (Bugs Information)
+
+
+       
+
+
+
+
+
